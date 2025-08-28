@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
-    .traffic-signal {
+    .container {
       width: 300px;
       height: 100px;
-      background-color: #333;
-      border-radius: 10px;
+      background-color: grey;
+      border-radius: 30px;
       display: flex;
       flex-direction: row;
       justify-content: space-around; /* Distribute lights evenly */
@@ -15,6 +15,7 @@ div.green{
 	width:80px;
 	background-color:green;
 	border-radius:50%;
+	padding:1px;
 	
 	
 	
@@ -24,13 +25,13 @@ div.yellow{
 	width:80px;
 	background-color:yellow;
 	border-radius:50%;
-
+padding:1px;
 }
 div.red{
 	height:80px;
 	width:80px;
 	background-color:red;
 	border-radius:50%;
-
+padding:1px;
 	
 }
