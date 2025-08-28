@@ -1,1 +1,40 @@
 /*  your css code here. If applicable */
+div.main_block{
+	height:100px;
+	width:330px;
+	background-color:grey;
+	border:1px solid black;
+	border-radius:15px;
+	box-sizing:contain;
+	
+	
+	
+}
+div.green{
+	height:80px;
+	width:80px;
+	background-color:green;
+	border-radius:50%;
+	position:relative;
+	top:-70px;
+	left:10px;
+	
+}
+div.yellow{
+	height:80px;
+	width:80px;
+	background-color:yellow;
+	border-radius:50%;
+	position:relative;
+	top:-150px;
+	left:110px;
+}
+div.red{
+	height:80px;
+	width:80px;
+	background-color:red;
+	border-radius:50%;
+	position:relative;
+	top:+10px;
+	left:210px;
+}
